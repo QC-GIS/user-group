@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+QC-GIS is a regional GIS user group for the Quad Cities.
+
+```{r}
+1 + 1
+```
