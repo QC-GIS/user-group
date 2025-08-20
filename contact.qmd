@@ -1,0 +1,10 @@
+---
+title: "Contacts"
+format: html
+---
+
+Bobby Oliver, GISP
+
+Email: bobby.j.oliver\@usace.army.mil
+
+![](images/magnifying-glass.jpg){fig-align="center" width="1in"}

@@ -1,0 +1,15 @@
+{
+  "hash": "047a0c97b9f954d5f6cd3b5d7ff1d9b3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"3D\"\ndate: \"2022-06-29\"\ncategories: [teaching, documentation]\nimage: \"featured.png\"\nimage-alt: \"An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible.\"\n---\n\n\n## \n\n## Presentation\n\n\n::: {.cell}\n\n````{.cell-code}\n```{{r}}\n#| label: simple-arithmetic\n#| results: hide\n\n1 + 1\n```\n````\n:::\n\n\n````         \n``` {{r}}\n#| echo: fenced\n#| label: simple-arithmetic\n#| results: hide\n\n1 + 1\n```\n````\n\n## Learn more\n\n[Fenced echo execution option](https://quarto.org/docs/computations/execution-options.html#fenced-echo)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

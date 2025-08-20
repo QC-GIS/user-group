@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+
+  navbar:
+    title-block-banner: true "images/logo.png"
+    logo: images/logo.jpeg 
+    left:
+      - href: index.qmd 
+        text: Home
+      - about.qmd
+      - resources.qmd
+    tools:
+      - icon: github
+        href: https://github.com/ 
+  
+  
+        
+  page-footer:
+    center: 
+      - text: "Contact"
+        href: contact.qmd
+
+       
+        
+format:
+  html:
+    theme:
+     light: minty
+     dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,11 @@
+---
+title: "Kick Off Meeting"
+date: "2025-07-07"
+categories: [analysis]
+image: "logo.png"
+image-alt: "Presentation from meeting September 30, 2025"
+---
+
+## 
+
+Time to share the knowledge!

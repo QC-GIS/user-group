@@ -1,0 +1,37 @@
+---
+title: "Resources"
+
+    
+    
+
+listing: 
+  - id: post-2025
+    contents: "posts/2025"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+    sort: "date desc"
+    categories: false
+##  - id: photos
+##    contents: "posts/photos"
+##    type: grid
+##    sort-ui: false
+##    filter-ui: false
+##    sort: "date desc"
+##    categories: false
+
+
+---
+
+## Presentations 2025
+
+:::{#post-2025}
+:::
+
+
+
+
+
+---
+
+

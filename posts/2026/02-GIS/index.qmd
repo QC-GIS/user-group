@@ -1,0 +1,13 @@
+---
+title: "GIS"
+date: "2022-06-30"
+categories: [execution]
+image: "featured.png"
+image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
+---
+
+## 
+
+Sample 2
+
+## 
