@@ -1,8 +1,8 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-
   navbar:
     title-block-banner: true "images/logo.png"
     logo: images/logo.jpeg 
@@ -14,16 +14,12 @@ website:
     tools:
       - icon: github
         href: https://github.com/ 
-  
-  
-        
+
   page-footer:
     center: 
       - text: "Contact"
         href: contact.qmd
 
-       
-        
 format:
   html:
     theme:
@@ -31,6 +27,3 @@ format:
      dark: darkly
     css: styles.css
     toc: true
-
-editor: visual
-
