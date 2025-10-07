@@ -7,7 +7,7 @@ about:
 
 ![](images/binoculars.jpg){image-shape="round" fig-align="center" width="2.5in" height="3in"}
 
-QC-GIS is a regional GIS user group for the Quad Cities area. Created to provide GIS professionals a forum to network and share their knowledge.
+QC-GIS is a regional GIS user group for the Quad Cities area. Establishing a GIS User Group in the quad cities area creates a network of partnerships with local organization and educational institutions. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.
 
 ### Bring your ideas and experience to the group.
 
