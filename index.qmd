@@ -4,29 +4,96 @@ image: images/looking.png
 about:
   template: jolla
   image-shape: rounded
-  
-  
 
-  
 ---
 
-Quad Cities GIS User Group
+## Quad Cities GIS User Group
 
-Establishing a GIS User Group in the QC area creates a network of partnerships with local organization and educational institutions. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.
-
-
+Establishing a GIS User Group in the QC area creates a network of partnerships with local organization, educational institutions and all other GIS users. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.
 
 
+### Meetings
+
+Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1pm at either Scott County EOC and Augustana College. Upcoming meeting info is emailed out to the user list ( please signup at the bottom of this page) prior to the meeting. 
+
+
+### Location Map
 
 
 
 
 
-#### Subscribe
+```{r echo=FALSE, fig.width=10,fig.height=8, message=FALSE, warning=FALSE}
 
-Subscribing to the user group will send all upcoming events directly to your email.
+ 
+# Load necessary libraries
+library(leaflet)
+library(sf)
+  # Replace with your actual file paths and data
+    polygon_data <- st_read("data/eoc_parking.shp", quiet=TRUE)
+    polyline_data <- st_read("data/aug_parking.shp", quiet=TRUE)
+    marker_data <- data.frame(
+      id = 1:2,
+      lng = c(-90.559, -90.551), # Longitudes
+      lat = c(41.568, 41.504),    # Latitudes
+      name = c("Scott County, EOC", "Augustana College, Hanson Bldg")  # Popup content
+    )
+# Create a leaflet map object
+map <- leaflet() %>%
+  addTiles %>%  # Adds a default tile layer
+
+  # Add the first shapefile as a layer
+  addPolygons(
+    data = polygon_data, 
+    fillColor = "#444444",
+    weight = 1,
+    opacity = 1,
+    fillOpacity = 0.5,
+    group = "EOC Parking",
+    popup = paste("polygon_data:", polygon_data$NAME) # Replace NAME with your attribute
+  ) %>%
+
+  # Add the second shapefile as a layer
+  addPolylines(
+    data = polyline_data,
+    fillColor = "blue",
+    weight = 1,
+    opacity = 1,
+    fillOpacity = 0.3,
+    group = "Auggie Parking",
+    popup = paste("polyline_data:", polyline_data$SUB_NAME) # Replace SUB_NAME
+  ) %>%
+
+  # Add circle markers from the marker_data data frame
+  addCircleMarkers(
+    data = marker_data,
+    lng = ~lng,
+    lat = ~lat,
+    radius = 4,
+    color = "red",
+    fillOpacity = 1,
+    group = "Meeting Locations",
+    popup = ~name
+  ) %>%
+
+  # Add layer control to toggle layers on and off
+  addLayersControl(
+   
+    overlayGroups = c("EOC Parking", "Auggie Parking", "Meeting Locations"),
+    options = layersControlOptions(collapsed = TRUE)
+  )
+
+# Print the map to render it in your Quarto document
+map
+```
 
 
+
+
+
+### Subscribe
+
+Subscribing to the user list will send all upcoming events directly to your email.
 
 
 

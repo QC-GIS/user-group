@@ -67,12 +67,32 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
+
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -114,7 +134,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#quad-cities-gis-user-group" id="toc-quad-cities-gis-user-group" class="nav-link active" data-scroll-target="#quad-cities-gis-user-group">Quad Cities GIS User Group</a>
+  <ul class="collapse">
+  <li><a href="#meetings" id="toc-meetings" class="nav-link" data-scroll-target="#meetings">Meetings</a></li>
+  <li><a href="#location-map" id="toc-location-map" class="nav-link" data-scroll-target="#location-map">Location Map</a></li>
+  <li><a href="#subscribe" id="toc-subscribe" class="nav-link" data-scroll-target="#subscribe">Subscribe</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-jolla">
   <img src="images/looking.png" class="about-image
@@ -126,11 +158,26 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p>Quad Cities GIS User Group</p>
-<p>Establishing a GIS User Group in the QC area creates a network of partnerships with local organization and educational institutions. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.</p>
-<section id="subscribe" class="level4">
-<h4 data-anchor-id="subscribe">Subscribe</h4>
-<p>Subscribing to the user group will send all upcoming events directly to your email.</p>
+
+<section id="quad-cities-gis-user-group" class="level2">
+<h2 data-anchor-id="quad-cities-gis-user-group">Quad Cities GIS User Group</h2>
+<p>Establishing a GIS User Group in the QC area creates a network of partnerships with local organization, educational institutions and all other GIS users. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.</p>
+<section id="meetings" class="level3">
+<h3 data-anchor-id="meetings">Meetings</h3>
+<p>Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1pm at either Scott County EOC and Augustana College. Upcoming meeting info is emailed out to the user list ( please signup at the bottom of this page) prior to the meeting.</p>
+</section>
+<section id="location-map" class="level3">
+<h3 data-anchor-id="location-map">Location Map</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-ecbcc255ff63d4a1d213" style="width:100%;height:520px;"></div>
+<script type="application/json" data-for="htmlwidget-ecbcc255ff63d4a1d213">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addPolygons","args":[[[[{"lng":[-90.5589856391781,-90.55885282113184,-90.55862034609697,-90.55867774892221,-90.5590661909423,-90.55902656936036,-90.55899509362041,-90.5589856391781],"lat":[41.56818887740803,41.5681664126796,41.56812709164785,41.56796429271174,41.56803239411289,41.56811839835007,41.56814317019223,41.56818887740803]}]]],null,"EOC Parking",{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":1,"opacity":1,"fill":true,"fillColor":"#444444","fillOpacity":0.5,"smoothFactor":1,"noClip":false},"polygon_data: ",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addPolylines","args":[[[[{"lng":[-90.55263205147708,-90.55263140695973],"lat":[41.50299495829222,41.50350163624671]}],[{"lng":[-90.55321883441059,-90.55321459908765,-90.5532155073667,-90.55321034556692],"lat":[41.50300868855265,41.50325420915067,41.50340693431258,41.50349687541961]}],[{"lng":[-90.55321034556692,-90.5532730529219,-90.55335479096436,-90.55482306865025,-90.55532518767006,-90.5553690623164,-90.55539795285586,-90.55539086993349,-90.55538105707268],"lat":[41.50349687541961,41.50350522869167,41.503520654797,41.50393249782513,41.50407496629521,41.50410907417444,41.5041774897328,41.50426315584753,41.50452725057829]}],[{"lng":[-90.55263140695973,-90.55321034556692],"lat":[41.50350163624671,41.50349687541961]}],[{"lng":[-90.55263140695973,-90.55263138091738,-90.55262551490711],"lat":[41.50350163624671,41.50352165750996,41.50381285811028]}],[{"lng":[-90.55262551490711,-90.55261158883098,-90.55260813815846],"lat":[41.50381285811028,41.50434531049291,41.50440384404624]}],[{"lng":[-90.55331379495419,-90.55272429824197,-90.55262551490711],"lat":[41.50397041139325,41.50382109151303,41.50381285811028]}],[{"lng":[-90.55331379495419,-90.55331777141373,-90.55332772699842],"lat":[41.50397041139325,41.5040003726088,41.50442632505582]}],[{"lng":[-90.55260813815846,-90.55330511145462,-90.55332772699842],"lat":[41.50440384404624,41.50442576807859,41.50442632505582]}],[{"lng":[-90.55260813815846,-90.55258792134197],"lat":[41.50440384404624,41.50492164309253]}],[{"lng":[-90.55332772699842,-90.55478445836252,-90.55493437171981,-90.55495993792476],"lat":[41.50442632505582,41.50446217936769,41.50444739968498,41.50443399504064]}],[{"lng":[-90.55495993792476,-90.5539281142531,-90.55331379495419],"lat":[41.50443399504064,41.50414248240241,41.50397041139325]}],[{"lng":[-90.55538105707268,-90.5553297576804,-90.55509590011889,-90.55500652387957,-90.55495993792476],"lat":[41.50452725057829,41.50452171428708,41.50446969200868,41.50444715608762,41.50443399504064]}],[{"lng":[-90.55538105707268,-90.55538529459341,-90.55535549541065,-90.55428630430788,-90.5532360591319,-90.55258792134197],"lat":[41.50452725057829,41.50491833296951,41.50501549425951,41.50498484559427,41.50494698736372,41.50492164309253]}],[{"lng":[-90.55258792134197,-90.552563738976,-90.55249349421541,-90.5511755034729],"lat":[41.50492164309253,41.50492069773691,41.50491869446222,41.50488109895076]}]],[[{"lng":[-90.5476393987736,-90.54762879846082,-90.54762851091083],"lat":[41.5037855356188,41.50197697523662,41.50034610453128]}]]],null,"Auggie Parking",{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":1,"opacity":1,"fill":false,"fillColor":"blue","fillOpacity":0.3,"smoothFactor":1,"noClip":false},"polyline_data: ",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[[41.568,41.504],[-90.559,-90.551],4,null,"Meeting Locations",{"interactive":true,"className":"","stroke":true,"color":"red","weight":5,"opacity":0.5,"fill":true,"fillColor":"red","fillOpacity":1},null,null,["Scott County, EOC","Augustana College, Hanson Bldg"],null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addLayersControl","args":[[],["EOC Parking","Auggie Parking","Meeting Locations"],{"collapsed":true,"autoZIndex":true,"position":"topright"}]}],"limits":{"lat":[41.50034610453128,41.56818887740803],"lng":[-90.5590661909423,-90.54762851091083]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="subscribe" class="level3">
+<h3 data-anchor-id="subscribe">Subscribe</h3>
+<p>Subscribing to the user list will send all upcoming events directly to your email.</p>
 <!-- Paste your MailerLite form HTML code here -->
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1754313");</style>
     <style type="text/css">
@@ -745,6 +792,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="ml-embedded" data-form="your_form_id"></div>
 
 
+</section>
 </section>
 </main>  
 </div>
