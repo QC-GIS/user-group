@@ -20,9 +20,6 @@ Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1p
 ### Location Map
 
 
-
-
-
 ```{r echo=FALSE, fig.width=10,fig.height=8, message=FALSE, warning=FALSE}
 
  
@@ -34,8 +31,8 @@ library(sf)
     polyline_data <- st_read("data/aug_parking.shp", quiet=TRUE)
     marker_data <- data.frame(
       id = 1:2,
-      lng = c(-90.559, -90.551), # Longitudes
-      lat = c(41.568, 41.504),    # Latitudes
+      lng = c(-90.5591744, -90.5511981), # Longitudes
+      lat = c(41.5683351, 41.5043097),    # Latitudes
       name = c("Scott County, EOC", "Augustana College, Hanson Bldg")  # Popup content
     )
 # Create a leaflet map object
@@ -50,7 +47,7 @@ map <- leaflet() %>%
     opacity = 1,
     fillOpacity = 0.5,
     group = "EOC Parking",
-    popup = paste("polygon_data:", polygon_data$NAME) # Replace NAME with your attribute
+    popup = paste("Scott County EOC Parking", polygon_data$NAME) # Replace NAME with your attribute
   ) %>%
 
   # Add the second shapefile as a layer
@@ -61,7 +58,7 @@ map <- leaflet() %>%
     opacity = 1,
     fillOpacity = 0.3,
     group = "Auggie Parking",
-    popup = paste("polyline_data:", polyline_data$SUB_NAME) # Replace SUB_NAME
+    popup = paste("Augustana College Street Parking:", polyline_data$SUB_NAME) # Replace SUB_NAME
   ) %>%
 
   # Add circle markers from the marker_data data frame
