@@ -1,11 +1,10 @@
 ---
 title: "QC-GIS"
-image: images/looking.png
-about:
-  template: jolla
-  image-shape: rounded
+
+
 
 ---
+![](images/looking.jpg){image-shape="round" fig-align="center" width="2in" height="2in"}
 
 ## Quad Cities GIS User Group
 
@@ -14,8 +13,12 @@ Establishing a GIS User Group in the QC area creates a network of partnerships w
 
 ### Meetings
 
-Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1pm at either Scott County EOC and Augustana College. Upcoming meeting info is emailed out to the user list ( please signup at the bottom of this page) prior to the meeting. 
+Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1pm at either:
 
++ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807
++ Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 233 or 234)
+
+ 
 
 ### Location Map
 

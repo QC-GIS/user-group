@@ -1,11 +1,10 @@
 ---
 title: "Knowledge Share"
 
-about:
-  template: jolla
+
 ---
 
-![](images/binoculars.jpg){image-shape="round" fig-align="center" width="2.5in" height="3in"}
+![](images/binoculars.jpg){image-shape="round" fig-align="center" width="2in" height="2in"}
 
 QC-GIS is a regional GIS user group for the Quad Cities area. Created to provide all GIS users a forum to network and share their knowledge.
 
