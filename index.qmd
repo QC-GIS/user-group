@@ -33,7 +33,7 @@ library(sf)
       id = 1:2,
       lng = c(-90.5591744, -90.5511981), # Longitudes
       lat = c(41.5683351, 41.5043097),    # Latitudes
-      name = c("Scott County, EOC", "Augustana College, Hanson Bldg")  # Popup content
+      name = c("Scott County, EOC, 1100 E 46th St, Davenport, IA 52807", "Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201")  # Popup content
     )
 # Create a leaflet map object
 map <- leaflet() %>%

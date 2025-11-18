@@ -9,8 +9,47 @@ about:
 
 QC-GIS is a regional GIS user group for the Quad Cities area. Created to provide all GIS users a forum to network and share their knowledge.
 
-
-
 ## Bring your ideas and experience to the group. 
 
 If you are interested in presenting please email Bobby Oliver at the contact link below. Provide your name, organization, topic of talk, what technology is needed for your presentation, and what is the best month, day and time you're available.
+
+### GIS Certifications
+
+Here is the link to the Geographic Information System Certification Institute (GISCI) for those interest in becoming a GISP.
+<br>
+<a href="https://www.gisci.org/" target="_blank">
+  <button>GISCI Link </button>
+</a>
+
+### Geospatial Communities
+
+#### The GPN
+
+The Geospatial Professional Network is a vibrant community uniting emerging and experienced GIS professionals through top-tier education, networking, and career development. We are committed to upholding ethical standards, empowering you to support your organization, advance your career, and shape the future of the geospatial profession.
+<br>
+<a href="https://thegpn.org/" target="_blank">
+
+  <button>The GPN Link </button>
+</a>
+<br>
+
+#### WiGIS
+
+Women in GIS is an inclusive group of women and allies coming together to provide support, resources, and opportunities for success as you navigate your geospatial career. 
+
+
+<a href="https://womeningis.wildapricot.org/" target="_blank">
+
+  <button>WiGIS Link </button>
+</a>
+<br>
+
+#### ASPRS
+
+The American Society for Photogrammetry and Remote Sensing (ASPRS) is a scientific association serving thousands of professional members around the world. Our mission is to advance knowledge and improve understanding of mapping sciences to promote the responsible applications of photogrammetry, remote sensing, geographic information systems (GIS) and supporting technologies.
+
+<a href="https://www.asprs.org/" target="_blank">
+
+  <button>ASPRS Link </button>
+</a>
+<br>
