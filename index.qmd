@@ -30,7 +30,7 @@ data <- data.frame(
     Location = c("EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC"),
     Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13", "12/8")
 )
-kable(data, caption = "Shedule")
+kable(data, caption = "2026 Shedule")
 ```
 
 
