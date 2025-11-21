@@ -13,12 +13,26 @@ Establishing a GIS User Group in the QC area creates a network of partnerships w
 
 ### Meetings
 
-Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. Meetings are held the 2 week of the month on a Tuesday or Friday from noon to 1pm at either:
+Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. Meetings are held the 2 week of the month at either:
 
-+ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807
-+ Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 233 or 234)
++ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807. __Meeting time noon to 1pm__
++ Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 234). __Meeting time from 1-2pm__
 
- 
+    
+### Meeting Location Schedule 
+
+
+```{r}
+#| echo: false
+library(knitr)
+data <- data.frame( 
+    Month = c("January", "February", "March", "April", "May", "June","July", "August", "September", "October","November", "December"),
+    Location = c("EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC"),
+    Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13", "12/8")
+)
+kable(data, caption = "Shedule")
+```
+
 
 ### Location Map
 
