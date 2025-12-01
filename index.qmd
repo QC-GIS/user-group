@@ -13,13 +13,15 @@ Establishing a GIS User Group in the QC area creates a network of partnerships w
 
 ### Meetings
 
-Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. Meetings are held the 2 week of the month at either:
+Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. The days, times, and locations of the meetings will vary in an attempt to accommodate more people. Meetings are held the 2 week of the month at one of the following locations. See the schedule below.
 
-+ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807. __Meeting time noon to 1pm__
-+ Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 234). __Meeting time from 1-2pm__
++ Scott County, Admin building, 600 W 4th St, Davenport, IA 52801 (Room 604). __Meeting time noon to 1pm on Tuesdays__
++ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807. __Meeting time noon to 1pm on Tuesdays__
++ Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 234). __Meeting time from 1-2pm on Fridays__
 
     
 ### Meeting Location Schedule 
+
 
 
 ```{r}
@@ -27,7 +29,7 @@ Upcoming meeting info is emailed out to the user list prior to the meeting. Plea
 library(knitr)
 data <- data.frame( 
     Month = c("January", "February", "March", "April", "May", "June","July", "August", "September", "October","November", "December"),
-    Location = c("EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC"),
+    Location = c("Admin", "Admin", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC"),
     Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13", "12/8")
 )
 kable(data, caption = "2026 Shedule")
@@ -46,11 +48,12 @@ library(sf)
   # Replace with your actual file paths and data
     polygon_data <- st_read("data/eoc_parking.shp", quiet=TRUE)
     polyline_data <- st_read("data/aug_parking.shp", quiet=TRUE)
+    polygon_data <- st_read("data/Admin_parking.shp", quiet=TRUE)
     marker_data <- data.frame(
-      id = 1:2,
-      lng = c(-90.5591744, -90.5511981), # Longitudes
-      lat = c(41.5683351, 41.5043097),    # Latitudes
-      name = c("Scott County, EOC, 1100 E 46th St, Davenport, IA 52807", "Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201")  # Popup content
+      id = 1:3,
+      lng = c(-90.5591744, -90.5511981, -90.5818880), # Longitudes
+      lat = c(41.5683351, 41.5043097, 41.5242603),    # Latitudes
+      name = c("Scott County, EOC, 1100 E 46th St, Davenport, IA 52807", "Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201", "Scott County, Admin, 600 W 4th St, Davenport, IA 52801" )  # Popup content
     )
 # Create a leaflet map object
 map <- leaflet() %>%
@@ -59,7 +62,7 @@ map <- leaflet() %>%
   # Add the first shapefile as a layer
   addPolygons(
     data = polygon_data, 
-    fillColor = "#444444",
+    fillColor = "purple",
     weight = 1,
     opacity = 1,
     fillOpacity = 0.5,
@@ -77,7 +80,18 @@ map <- leaflet() %>%
     group = "Auggie Parking",
     popup = paste("Augustana College Street Parking:", polyline_data$SUB_NAME) # Replace SUB_NAME
   ) %>%
-
+  
+  # Add the third shapefile as a layer
+  addPolygons(
+    data = polygon_data, 
+    fillColor = "green",
+    weight = 1,
+    opacity = 1,
+    fillOpacity = 0.5,
+    group = "Admin Parking",
+    popup = paste("Scott County Administration Parking", polygon_data$NAME) # Replace NAME with your attribute
+  ) %>%
+  
   # Add circle markers from the marker_data data frame
   addCircleMarkers(
     data = marker_data,
@@ -89,11 +103,12 @@ map <- leaflet() %>%
     group = "Meeting Locations",
     popup = ~name
   ) %>%
-
+  
+  
   # Add layer control to toggle layers on and off
   addLayersControl(
    
-    overlayGroups = c("EOC Parking", "Auggie Parking", "Meeting Locations"),
+    overlayGroups = c("EOC Parking", "Auggie Parking", "Admin Parking", "Meeting Locations"),
     options = layersControlOptions(collapsed = TRUE)
   )
 
