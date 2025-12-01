@@ -8,7 +8,7 @@ freeze: true
 title-block-banner: true
 
 # Add author
-author: Who will it be?
+author: Chris Hawes
 
 # Add table of contents
 toc: true

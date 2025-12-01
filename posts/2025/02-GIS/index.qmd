@@ -1,13 +1,12 @@
 ---
-title: "What's Next?"
-date: "2022-06-30"
-categories: [execution]
+title: "ArcGIS Enterprise"
+date: "2025-11-14"
+categories: [applications]
 image: "featured.png"
 image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
 ---
 
 ## 
 
-Who will be sharing their knowledge!
-
+GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant __ArcGIS Enterprise__ configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil
 ## 

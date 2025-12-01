@@ -1,9 +1,9 @@
 ---
 title: "Kick Off Meeting"
-date: "2025-07-07"
-categories: [analysis]
+date: "2025-10-14"
+categories: [Information]
 image: "logo.png"
-image-alt: "Presentation from meeting September 30, 2025"
+image-alt: "Welcome to the QC GIS User Group"
 ---
 
 ## 
