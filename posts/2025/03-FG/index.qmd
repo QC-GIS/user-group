@@ -1,0 +1,17 @@
+---
+title: "FluvialGeomorph Tools"
+date: "12/9/2025"
+categories: [Application, documentation, Analysis]
+image: "pexels-blooddrainer-354611.jpg"
+image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible."
+---
+
+## 
+How do you monitor stream stability? FluvialGeomorph tools help you use LiDAR to rapidly assess changing stream geomorphology. We'll explore this framework and the analysis tools available. 
+
+::: {style="float: center; margin:1px 10px;"}
+
+![Toolbox on GitHub](fg_fgtb_hex_image.png){width="2in"}
+
+:::
+## 

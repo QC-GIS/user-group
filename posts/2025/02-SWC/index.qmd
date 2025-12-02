@@ -2,7 +2,7 @@
 title: "ArcGIS Enterprise"
 date: "2025-11-14"
 categories: [applications]
-image: "featured.png"
+image: "swc.png"
 image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
 ---
 

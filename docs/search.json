@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Anyone?\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hawes\n\n\nNov 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBobby Oliver\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Michael Dougherty\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hawes\n\n\nNov 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBobby Oliver\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html#presentations-2025",
     "href": "resources.html#presentations-2025",
     "title": "Resources",
     "section": "",
-    "text": "Anyone?\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hawes\n\n\nNov 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBobby Oliver\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Michael Dougherty\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hawes\n\n\nNov 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBobby Oliver\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2027/02-GIS/index.html",
@@ -166,5 +166,33 @@
     "title": "3D",
     "section": "Learn more",
     "text": "Learn more"
+  },
+  {
+    "objectID": "posts/2025/02-SWC/index.html",
+    "href": "posts/2025/02-SWC/index.html",
+    "title": "ArcGIS Enterprise",
+    "section": "",
+    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+  },
+  {
+    "objectID": "posts/2025/02-SWC/index.html#section",
+    "href": "posts/2025/02-SWC/index.html#section",
+    "title": "ArcGIS Enterprise",
+    "section": "",
+    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+  },
+  {
+    "objectID": "posts/2025/03-FG/index.html",
+    "href": "posts/2025/03-FG/index.html",
+    "title": "FluvialGeomorph Tools",
+    "section": "",
+    "text": "How do you monitor stream stability? FluvialGeomorph tools help you use LiDAR to rapidly assess changing stream geomorphology. We’ll explore this framework and the analysis tools available.\n\n\n\n\nToolbox on GitHub"
+  },
+  {
+    "objectID": "posts/2025/03-FG/index.html#section",
+    "href": "posts/2025/03-FG/index.html#section",
+    "title": "FluvialGeomorph Tools",
+    "section": "",
+    "text": "How do you monitor stream stability? FluvialGeomorph tools help you use LiDAR to rapidly assess changing stream geomorphology. We’ll explore this framework and the analysis tools available.\n\n\n\n\nToolbox on GitHub"
   }
 ]
