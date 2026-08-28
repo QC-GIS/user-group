@@ -13,28 +13,51 @@ Establishing a GIS User Group in the QC area creates a network of partnerships w
 
 ### Meetings
 
-Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. The days, times, and locations of the meetings will vary in an attempt to accommodate more people. Meetings are held the 2 week of the month at one of the following locations. See the schedule below.
+Upcoming meeting info is emailed out to the user list prior to the meeting. Please signup  for emails at the bottom of this page. The days, times, and locations of the meetings will vary in an attempt to accommodate more people. Meetings are held the 2 week of the months listed in the schedule and at one of the following locations. See the schedule below.
 
-+ Scott County, Admin building, 600 W 4th St, Davenport, IA 52801 (Room 604). __Meeting time noon to 1pm on Tuesdays__
-+ Scott County, EOC, 1100 E 46th St, Davenport, IA 52807. __Meeting time noon to 1pm on Tuesdays__
+
 + Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 234). __Meeting time from 1-2pm on Fridays__
-
++ Bi-State Regional Commission, 1504 Third Ave, Rock Island, IL 61201 (Room 201). __Meeting time from 12-1pm on Wednesdays__
     
 ### Meeting Location Schedule 
-
-
 
 ```{r}
 #| echo: false
 library(knitr)
 data <- data.frame( 
-    Month = c("January", "February", "March", "April", "May", "June","July", "August", "September", "October","November", "December"),
-    Location = c("Admin", "Admin", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson", "EOC"),
-    Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13", "12/8")
+    Month = c("January", "February", "March", "April", "May", "June","July", "August", "September", "October","November"),
+    Location = c("Admin", "Admin", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson"),
+    Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13")
 )
 kable(data, caption = "2026 Shedule")
 ```
 
+### December 2026 Meeting Cancelled
+This meeting is being replace by an opportunity for professionals to attend final presentations of GIS projects by students in the Augustana College GIS class. This occasion provides a chance for students to present their work to professionals in the field, and for professionals to provide feedback and guidance to students. This event provides an ideal opportunity for professionals to give back to the GIS CoP and students with skill building and networking opportunity.
+
+The presentations will be held on #Friday, December 7th and 11th in Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201.
+
+#### Drone Mapping & GIS: 
+Monday, December 7th, 3-5pm
+
+Students will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.
+
+
+#### Cartography:
+Friday, December 11th, 9-11am
+
+Students will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication.
+
+```{r}
+#| echo: false
+library(knitr)
+data <- data.frame( 
+    Month = c("February", "May","August","October"),
+    Location = c("Hanson", "Bi-State ", "Bi-State ", "Hanson"),
+    Date = c("2/13", "5/19", "8/11", "10/TBD")
+)
+kable(data, caption = "2027 Shedule")
+```
 
 ### Location Map
 
@@ -46,39 +69,39 @@ kable(data, caption = "2026 Shedule")
 library(leaflet)
 library(sf)
   # Replace with your actual file paths and data
-    polygon_data <- st_read("data/eoc_parking.shp", quiet=TRUE)
+    bistatestreets <- st_read("data/bistate_streets.shp", quiet=TRUE)
     polyline_data <- st_read("data/aug_parking.shp", quiet=TRUE)
-    polygon_data <- st_read("data/Admin_parking.shp", quiet=TRUE)
+    polygon_data <- st_read("data/bistate.shp", quiet=TRUE)
     marker_data <- data.frame(
       id = 1:3,
-      lng = c(-90.5591744, -90.5511981, -90.5818880), # Longitudes
-      lat = c(41.5683351, 41.5043097, 41.5242603),    # Latitudes
-      name = c("Scott County, EOC, 1100 E 46th St, Davenport, IA 52807", "Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201", "Scott County, Admin, 600 W 4th St, Davenport, IA 52801" )  # Popup content
+      lng = c(-90.578486, -90.5511981, -90.548944), # Longitudes
+      lat = c(41.509158, 41.5043097, 41.502986),    # Latitudes
+      name = c("Bi-State Regional Commission, Conference Room, 1504 Third Ave, Rock Island, IL 61201", "Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201", "Augustana College, Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201" )  # Popup content
     )
 # Create a leaflet map object
 map <- leaflet() %>%
   addTiles %>%  # Adds a default tile layer
 
   # Add the first shapefile as a layer
-  addPolygons(
-    data = polygon_data, 
+  addPolylines(
+    data = bistatestreets, 
     fillColor = "purple",
     weight = 1,
     opacity = 1,
-    fillOpacity = 0.5,
-    group = "EOC Parking",
-    popup = paste("Scott County EOC Parking", polygon_data$NAME) # Replace NAME with your attribute
+    fillOpacity = 0.3,
+    group = "Bi-State Parking",
+    popup = paste("Bi-State Street Parking", polyline_data$NAME) # Replace NAME with your attribute
   ) %>%
 
   # Add the second shapefile as a layer
   addPolylines(
     data = polyline_data,
-    fillColor = "blue",
+    fillColor = "red",
     weight = 1,
     opacity = 1,
     fillOpacity = 0.3,
     group = "Auggie Parking",
-    popup = paste("Augustana College Street Parking:", polyline_data$SUB_NAME) # Replace SUB_NAME
+    popup = paste("Augustana College Street Parking", polyline_data$SUB_NAME) # Replace SUB_NAME
   ) %>%
   
   # Add the third shapefile as a layer
@@ -88,8 +111,8 @@ map <- leaflet() %>%
     weight = 1,
     opacity = 1,
     fillOpacity = 0.5,
-    group = "Admin Parking",
-    popup = paste("Scott County Administration Parking", polygon_data$NAME) # Replace NAME with your attribute
+    group = "Bi-State Parking Lot",
+    popup = paste("Bi-State Regional -Public Parking Lot", polygon_data$NAME) # Replace NAME with your attribute
   ) %>%
   
   # Add circle markers from the marker_data data frame
@@ -103,12 +126,11 @@ map <- leaflet() %>%
     group = "Meeting Locations",
     popup = ~name
   ) %>%
-  
-  
+    
   # Add layer control to toggle layers on and off
   addLayersControl(
    
-    overlayGroups = c("EOC Parking", "Auggie Parking", "Admin Parking", "Meeting Locations"),
+    overlayGroups = c("Bi-State Parking", "Auggie Parking", "Bistate Street Parking", "Meeting Locations"),
     options = layersControlOptions(collapsed = TRUE)
   )
 

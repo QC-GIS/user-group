@@ -7,7 +7,7 @@ image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple
 ---
 
 ## 
-How do you monitor stream stability? FluvialGeomorph tools help you use LiDAR to rapidly assess changing stream geomorphology. We'll explore this framework and the analysis tools available. 
+How do you monitor stream stability? __FluvialGeomorph__ tools help you use LiDAR to rapidly assess changing stream geomorphology. We'll explore this framework and the analysis tools available. 
 
 ::: {style="float: center; margin:1px 10px;"}
 
