@@ -1,0 +1,17 @@
+---
+title: "Scott County Situational Awareness Dashboard"
+date: "2026-07-14"
+categories: [execution]
+image: "featured.png"
+image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
+---
+
+## 
+
+Breanna Pairrett  
+
+This presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI's Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. 
+
+It is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius
+
+## 

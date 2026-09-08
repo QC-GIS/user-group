@@ -1,0 +1,13 @@
+---
+title: "Where, When, Why, and How of Esri's Experience Builder"
+date: "2026-02-10"
+categories: [execution]
+image: "featured.png"
+image-alt: "YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes."
+---
+
+## 
+
+This will be a beginner-friendly intro to showcase the basics of putting together your first Experience and will compare Experience Builder to Esri's other application  options to help you choose the best platform for your needs." 
+
+## 

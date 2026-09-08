@@ -1,0 +1,12 @@
+---
+title: "Rock Island Common Operating Picture (RCOP)"
+date: "2026-01-13"
+categories: [analysis]
+image: "logo.png"
+image-alt: "Presentation from meeting January 13, 2026"
+---
+
+## 
+
+The RCOP is used to support Rock Island Districts Emergency Response reporting and field data collection. She will first provide an introduction to field data collection and then provide a tour of the application suite used to power situational reporting and briefings during an emergency response event. This presentation will focus on how the RCOP is used to respond to flooding within the Rock Island District. 
+##

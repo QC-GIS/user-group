@@ -14,6 +14,13 @@
     "text": "Michael Dougherty\n\n\nDec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Hawes\n\n\nNov 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBobby Oliver\n\n\nOct 14, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "resources.html#presentations-2026",
+    "href": "resources.html#presentations-2026",
+    "title": "Resources",
+    "section": "Presentations 2026",
+    "text": "Presentations 2026\n\n\n\n\n\n\n\n\n\n\nAugustana College GIS Student Final Presentations\n\n\n\n\n\n\nAugustana College Students\n\n\nDec 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSACE Forestry GIS Programs\n\n\n\n\n\n\nChris Hawes\n\n\nNov 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSACE UAS and GIS Integration\n\n\n\n\n\n\nCarli Schalbowske\n\n\nOct 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Ops GIS Programs\n\n\n\n\n\n\nMorgan Franck (Anderson)\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nVersioned Parcel Fabric Implementation\n\n\n\n\n\n\nMick Frus, Cameron Shotton, Andrew Sunderman\n\n\nAug 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nScott County Situational Awareness Dashboard\n\n\n\n\n\n\nBreanna Pairrett\n\n\nJul 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nQC-GIS Round Table Discussion\n\n\n\n\n\n\nMicchael Dougherty\n\n\nJun 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSACE UAS and GIS Integration\n\n\n\n\n\n\nCarli Schalbowske\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBettendorf GIS2026\n\n\n\n\n\n\nNate Johnson\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsri’s Geospatial Platform and Emerging Capabilities\n\n\n\n\n\n\nPatrick Keown\n\n\nMar 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhere, When, Why, and How of Esri’s Experience Builder\n\n\n\n\n\n\nAlden Ross\n\n\nFeb 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nRock Island Common Operating Picture (RCOP)\n\n\n\n\n\n\nBarrie Chileen-Martinez\n\n\nJan 13, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/2027/02-GIS/index.html",
     "href": "posts/2027/02-GIS/index.html",
     "title": "GIS",
@@ -28,88 +35,88 @@
     "text": "Sample 2"
   },
   {
-    "objectID": "posts/2026/03-3D/index.html#presentation",
-    "href": "posts/2026/03-3D/index.html#presentation",
-    "title": "3D",
+    "objectID": "posts/2026/12-Augustana/index.html#presentation",
+    "href": "posts/2026/12-Augustana/index.html#presentation",
+    "title": "Augustana College GIS Student Final Presentations",
     "section": "Presentation",
-    "text": "Presentation\nPresentation"
+    "text": "Presentation\nAugustana College GIS Student Final Presentations in December 2026: Locations for both presentations will be:\nSwenson Hall of Geoscience, 820 38th St, Rock Island, IL 61201 (free parking along 38th street) Room 210\nDrone Mapping & GIS: Monday, December 7th, 3-5pm\nStudents will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.\nCartography: Friday, December 11th, 9-11am\nStudents will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication."
   },
   {
-    "objectID": "posts/2026/03-3D/index.html#learn-more",
-    "href": "posts/2026/03-3D/index.html#learn-more",
-    "title": "3D",
+    "objectID": "posts/2026/12-Augustana/index.html#learn-more",
+    "href": "posts/2026/12-Augustana/index.html#learn-more",
+    "title": "Augustana College GIS Student Final Presentations",
     "section": "Learn more",
     "text": "Learn more"
   },
   {
-    "objectID": "posts/2026/01-opening-event/index.html",
-    "href": "posts/2026/01-opening-event/index.html",
-    "title": "Opening Event",
+    "objectID": "posts/2026/10-USACE - UAS/index.html#presentation",
+    "href": "posts/2026/10-USACE - UAS/index.html#presentation",
+    "title": "USACE UAS and GIS Integration",
+    "section": "Presentation",
+    "text": "Presentation\nCarli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+  },
+  {
+    "objectID": "posts/2026/10-USACE - UAS/index.html#learn-more",
+    "href": "posts/2026/10-USACE - UAS/index.html#learn-more",
+    "title": "USACE UAS and GIS Integration",
+    "section": "Learn more",
+    "text": "Learn more"
+  },
+  {
+    "objectID": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html",
+    "href": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html",
+    "title": "Versioned Parcel Fabric Implementation",
     "section": "",
-    "text": "Test site"
+    "text": "Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman\nThe Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
   },
   {
-    "objectID": "posts/2026/01-opening-event/index.html#section",
-    "href": "posts/2026/01-opening-event/index.html#section",
-    "title": "Opening Event",
+    "objectID": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html#section",
+    "href": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html#section",
+    "title": "Versioned Parcel Fabric Implementation",
     "section": "",
-    "text": "Test site"
+    "text": "Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman\nThe Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
   },
   {
-    "objectID": "posts/2025/02-SWC/index.html",
-    "href": "posts/2025/02-SWC/index.html",
-    "title": "ArcGIS Enterprise",
+    "objectID": "posts/2026/06-QC-GIS Round Table/index.html",
+    "href": "posts/2026/06-QC-GIS Round Table/index.html",
+    "title": "QC-GIS Round Table Discussion",
     "section": "",
-    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+    "text": "It’s time to hear from the QC-GIS members! This month’s meeting will be a round table discussion, similar to our very first meeting. Come ready to share your GIS projects, questions and hurdles. You never know how hearing about someone else’s work might benefit you or solve a problem or two.\n##"
   },
   {
-    "objectID": "posts/2025/02-SWC/index.html#section",
-    "href": "posts/2025/02-SWC/index.html#section",
-    "title": "ArcGIS Enterprise",
+    "objectID": "posts/2026/06-QC-GIS Round Table/index.html#section",
+    "href": "posts/2026/06-QC-GIS Round Table/index.html#section",
+    "title": "QC-GIS Round Table Discussion",
     "section": "",
-    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+    "text": "It’s time to hear from the QC-GIS members! This month’s meeting will be a round table discussion, similar to our very first meeting. Come ready to share your GIS projects, questions and hurdles. You never know how hearing about someone else’s work might benefit you or solve a problem or two.\n##"
   },
   {
-    "objectID": "index.html#quad-cities-gis-user-group",
-    "href": "index.html#quad-cities-gis-user-group",
-    "title": "QC-GIS",
-    "section": "Quad Cities GIS User Group",
-    "text": "Quad Cities GIS User Group\nEstablishing a GIS User Group in the QC area creates a network of partnerships with local organization, educational institutions and all other GIS users. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.\n\nMeetings\nUpcoming meeting info is emailed out to the user list prior to the meeting. Please signup for emails at the bottom of this page. The days, times, and locations of the meetings will vary in an attempt to accommodate more people. Meetings are held the 2 week of the months listed in the schedule and at one of the following locations. See the schedule below.\n\nAugustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL 61201 (Room 234). Meeting time from 1-2pm on Fridays\nBi-State Regional Commission, 1504 Third Ave, Rock Island, IL 61201 (Room 201). Meeting time from 12-1pm on Wednesdays\n\n\n\nMeeting Location Schedule\n\n\n\n2026 Shedule\n\n\nMonth\nLocation\nDate\n\n\n\n\nJanuary\nAdmin\n1/13\n\n\nFebruary\nAdmin\n2/10\n\n\nMarch\nHanson\n3/13\n\n\nApril\nHanson\n4/10\n\n\nMay\nHanson\n5/8\n\n\nJune\nEOC\n6/9\n\n\nJuly\nEOC\n7/14\n\n\nAugust\nEOC\n8/11\n\n\nSeptember\nHanson\n9/11\n\n\nOctober\nHanson\n10/9\n\n\nNovember\nHanson\n11/13\n\n\n\n\n\n\n\nDecember 2026 Meeting Cancelled\nThis meeting is being replace by an opportunity for professionals to attend final presentations of GIS projects by students in the Augustana College GIS class. This occasion provides a chance for students to present their work to professionals in the field, and for professionals to provide feedback and guidance to students. This event provides an ideal opportunity for professionals to give back to the GIS CoP and students with skill building and networking opportunity.\nThe presentations will be held on #Friday, December 7th and 11th in Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201.\n\nDrone Mapping & GIS:\nMonday, December 7th, 3-5pm\nStudents will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.\n\n\nCartography:\nFriday, December 11th, 9-11am\nStudents will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication.\n\n\n\n2027 Shedule\n\n\nMonth\nLocation\nDate\n\n\n\n\nFebruary\nHanson\n2/13\n\n\nMay\nBi-State\n5/19\n\n\nAugust\nBi-State\n8/11\n\n\nOctober\nHanson\n10/TBD\n\n\n\n\n\n\n\n\nLocation Map\n\n\n\n\n\n\n\n\nSubscribe\nSubscribing to the user list will send all upcoming events directly to your email.\n\n\n    \n\n    \n  \n    \n      \n        \n\n          \n          \n\n          \n\n            \n              \n                Join\n                QC-GIS User Group.\n              \n            \n\n            \n              \n                \n\n                  \n                  \n                    \n\n                      \n\n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n                      \n            \n            \n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n\n\n\n\n                    \n                  \n                \n              \n\n              \n\n              \n              \n              \n\n              \n\n              \n              \n\n              \n                \n                  Subscribe\n                \n                \n                  \n                  Loading...\n                \n              \n\n              \n              \n            \n          \n\n          \n\n            \n              \n                Thank you!\n                \n                  You have successfully joined our subscriber list."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Knowledge Share",
+    "objectID": "posts/2026/04-Bettendorf GIS/index.html",
+    "href": "posts/2026/04-Bettendorf GIS/index.html",
+    "title": "Bettendorf GIS2026",
     "section": "",
-    "text": "QC-GIS is a regional GIS user group for the Quad Cities area. Created to provide all GIS users a forum to network and share their knowledge."
+    "text": "Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
   },
   {
-    "objectID": "about.html#bring-your-ideas-and-experience-to-the-group.",
-    "href": "about.html#bring-your-ideas-and-experience-to-the-group.",
-    "title": "Knowledge Share",
-    "section": "Bring your ideas and experience to the group.",
-    "text": "Bring your ideas and experience to the group.\nIf you are interested in presenting please email Bobby Oliver at the contact link below. Provide your name, organization, topic of talk, what technology is needed for your presentation, and what is the best month, day and time you’re available.\n\nGIS Certifications\nHere is the link to the Geographic Information System Certification Institute (GISCI) for those interest in becoming a GISP.   GISCI Link  \n\n\nGeospatial Communities\n\nThe GPN\nThe Geospatial Professional Network is a vibrant community uniting emerging and experienced GIS professionals through top-tier education, networking, and career development. We are committed to upholding ethical standards, empowering you to support your organization, advance your career, and shape the future of the geospatial profession.  \nThe GPN Link   \n\n\nWiGIS\nWomen in GIS is an inclusive group of women and allies coming together to provide support, resources, and opportunities for success as you navigate your geospatial career.\n\nWiGIS Link   \n\n\nASPRS\nThe American Society for Photogrammetry and Remote Sensing (ASPRS) is a scientific association serving thousands of professional members around the world. Our mission is to advance knowledge and improve understanding of mapping sciences to promote the responsible applications of photogrammetry, remote sensing, geographic information systems (GIS) and supporting technologies.\n\nASPRS Link"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contacts",
+    "objectID": "posts/2026/04-Bettendorf GIS/index.html#section",
+    "href": "posts/2026/04-Bettendorf GIS/index.html#section",
+    "title": "Bettendorf GIS2026",
     "section": "",
-    "text": "Bobby Oliver, GISP\nEmail: bobby.j.oliver@usace.army.mil"
+    "text": "Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
   },
   {
-    "objectID": "posts/2025/01-opening-event/index.html",
-    "href": "posts/2025/01-opening-event/index.html",
-    "title": "Kick Off Meeting",
+    "objectID": "posts/2026/02-USACE - Esri Experience Builder/index.html",
+    "href": "posts/2026/02-USACE - Esri Experience Builder/index.html",
+    "title": "Where, When, Why, and How of Esri’s Experience Builder",
     "section": "",
-    "text": "Time to share the knowledge!"
+    "text": "This will be a beginner-friendly intro to showcase the basics of putting together your first Experience and will compare Experience Builder to Esri’s other application options to help you choose the best platform for your needs.”"
   },
   {
-    "objectID": "posts/2025/01-opening-event/index.html#section",
-    "href": "posts/2025/01-opening-event/index.html#section",
-    "title": "Kick Off Meeting",
+    "objectID": "posts/2026/02-USACE - Esri Experience Builder/index.html#section",
+    "href": "posts/2026/02-USACE - Esri Experience Builder/index.html#section",
+    "title": "Where, When, Why, and How of Esri’s Experience Builder",
     "section": "",
-    "text": "Time to share the knowledge!"
+    "text": "This will be a beginner-friendly intro to showcase the basics of putting together your first Experience and will compare Experience Builder to Esri’s other application options to help you choose the best platform for your needs.”"
   },
   {
     "objectID": "posts/2025/03-FG/index.html",
@@ -126,18 +133,151 @@
     "text": "How do you monitor stream stability? FluvialGeomorph tools help you use LiDAR to rapidly assess changing stream geomorphology. We’ll explore this framework and the analysis tools available.\n\n\n\n\nToolbox on GitHub"
   },
   {
-    "objectID": "posts/2026/02-GIS/index.html",
-    "href": "posts/2026/02-GIS/index.html",
-    "title": "GIS",
+    "objectID": "posts/2025/01-opening-event/index.html",
+    "href": "posts/2025/01-opening-event/index.html",
+    "title": "Kick Off Meeting",
     "section": "",
-    "text": "Sample 2"
+    "text": "Time to share the knowledge!"
   },
   {
-    "objectID": "posts/2026/02-GIS/index.html#section",
-    "href": "posts/2026/02-GIS/index.html#section",
-    "title": "GIS",
+    "objectID": "posts/2025/01-opening-event/index.html#section",
+    "href": "posts/2025/01-opening-event/index.html#section",
+    "title": "Kick Off Meeting",
     "section": "",
-    "text": "Sample 2"
+    "text": "Time to share the knowledge!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "Bobby Oliver, GISP\nEmail: bobby.j.oliver@usace.army.mil"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Knowledge Share",
+    "section": "",
+    "text": "QC-GIS is a regional GIS user group for the Quad Cities area. Created to provide all GIS users a forum to network and share their knowledge."
+  },
+  {
+    "objectID": "about.html#bring-your-ideas-and-experience-to-the-group.",
+    "href": "about.html#bring-your-ideas-and-experience-to-the-group.",
+    "title": "Knowledge Share",
+    "section": "Bring your ideas and experience to the group.",
+    "text": "Bring your ideas and experience to the group.\nIf you are interested in presenting please email Bobby Oliver at the contact link below. Provide your name, organization, topic of talk, what technology is needed for your presentation, and what is the best month, day and time you’re available.\n\nGIS Certifications\nHere is the link to the Geographic Information System Certification Institute (GISCI) for those interest in becoming a GISP.   GISCI Link  \n\n\nGeospatial Communities\n\nThe GPN\nThe Geospatial Professional Network is a vibrant community uniting emerging and experienced GIS professionals through top-tier education, networking, and career development. We are committed to upholding ethical standards, empowering you to support your organization, advance your career, and shape the future of the geospatial profession.  \nThe GPN Link   \n\n\nWiGIS\nWomen in GIS is an inclusive group of women and allies coming together to provide support, resources, and opportunities for success as you navigate your geospatial career.\n\nWiGIS Link   \n\n\nASPRS\nThe American Society for Photogrammetry and Remote Sensing (ASPRS) is a scientific association serving thousands of professional members around the world. Our mission is to advance knowledge and improve understanding of mapping sciences to promote the responsible applications of photogrammetry, remote sensing, geographic information systems (GIS) and supporting technologies.\n\nASPRS Link"
+  },
+  {
+    "objectID": "index.html#quad-cities-gis-user-group",
+    "href": "index.html#quad-cities-gis-user-group",
+    "title": "QC-GIS",
+    "section": "Quad Cities GIS User Group",
+    "text": "Quad Cities GIS User Group\nEstablishing a GIS User Group in the QC area creates a network of partnerships with local organization, educational institutions and all other GIS users. It provides essential professional involvement in our local community, strengthens existing partnerships, and creates access to a pool of local GIS knowledge and resources.\n\nMeetings\nUpcoming meeting info is emailed out to the user list prior to the meeting. Please signup for emails at the bottom of this page. The days, times, and locations of the meetings will vary in an attempt to accommodate more people. Meetings are held the 2 week of the months listed in the schedule and at one of the following locations. See the schedule below.\n\nAugustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL 61201 (Room 234). Meeting time from 1-2pm on Fridays\nBi-State Regional Commission, 1504 Third Ave, Rock Island, IL 61201 (Room 201). Meeting time from 12-1pm on Wednesdays\n\n\n\nMeeting Location Schedule\n\n\n\n2026 Shedule\n\n\nMonth\nLocation\nDate\n\n\n\n\nJanuary\nAdmin\n1/13\n\n\nFebruary\nAdmin\n2/10\n\n\nMarch\nHanson\n3/13\n\n\nApril\nHanson\n4/10\n\n\nMay\nHanson\n5/8\n\n\nJune\nEOC\n6/9\n\n\nJuly\nEOC\n7/14\n\n\nAugust\nEOC\n8/11\n\n\nSeptember\nHanson\n9/11\n\n\nOctober\nHanson\n10/9\n\n\nNovember\nHanson\n11/13\n\n\n\n\n\n\n\nDecember 2026 Meeting Cancelled\nThis meeting is being replace by an opportunity for professionals to attend final presentations of GIS projects by students in the Augustana College GIS class. This occasion provides a chance for students to present their work to professionals in the field, and for professionals to provide feedback and guidance to students. This event provides an ideal opportunity for professionals to give back to the GIS CoP and students with skill building and networking opportunity.\nThe presentations will be held on Friday, December 7th and 11th in Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201.\n\nDrone Mapping & GIS:\nMonday, December 7th, 3-5pm\nStudents will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.\n\n\nCartography:\nFriday, December 11th, 9-11am\nStudents will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication.\n\n\n\n2027 Shedule\n\n\nMonth\nLocation\nDate\n\n\n\n\nFebruary\nHanson\n2/13\n\n\nMay\nBi-State\n5/19\n\n\nAugust\nBi-State\n8/11\n\n\nOctober\nHanson\n10/TBD\n\n\n\n\n\n\n\n\nLocation Map\n\n\n\n\n\n\n\n\nSubscribe\nSubscribing to the user list will send all upcoming events directly to your email.\n\n\n    \n\n    \n  \n    \n      \n        \n\n          \n          \n\n          \n\n            \n              \n                Join\n                QC-GIS User Group.\n              \n            \n\n            \n              \n                \n\n                  \n                  \n                    \n\n                      \n\n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n                      \n            \n            \n\n                      \n                      \n                      \n\n                      \n                      \n                      \n\n\n\n\n\n                    \n                  \n                \n              \n\n              \n\n              \n              \n              \n\n              \n\n              \n              \n\n              \n                \n                  Subscribe\n                \n                \n                  \n                  Loading...\n                \n              \n\n              \n              \n            \n          \n\n          \n\n            \n              \n                Thank you!\n                \n                  You have successfully joined our subscriber list."
+  },
+  {
+    "objectID": "posts/2025/02-SWC/index.html",
+    "href": "posts/2025/02-SWC/index.html",
+    "title": "ArcGIS Enterprise",
+    "section": "",
+    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+  },
+  {
+    "objectID": "posts/2025/02-SWC/index.html#section",
+    "href": "posts/2025/02-SWC/index.html#section",
+    "title": "ArcGIS Enterprise",
+    "section": "",
+    "text": "GIS support of a USACE project in southwest Louisiana: starting with a brief project background and a focus on using a multi-tenant ArcGIS Enterprise configuration and diverse suite of ESRI web GIS applications. The goal is to highlight effective leveraging of ArcGIS Enterprise technology to handle complex engineering workflows. Contact with questions - christopher.c.hawes@usace.army.mil ##"
+  },
+  {
+    "objectID": "posts/2026/01-USACE - RCOP/index.html",
+    "href": "posts/2026/01-USACE - RCOP/index.html",
+    "title": "Rock Island Common Operating Picture (RCOP)",
+    "section": "",
+    "text": "The RCOP is used to support Rock Island Districts Emergency Response reporting and field data collection. She will first provide an introduction to field data collection and then provide a tour of the application suite used to power situational reporting and briefings during an emergency response event. This presentation will focus on how the RCOP is used to respond to flooding within the Rock Island District.  ##"
+  },
+  {
+    "objectID": "posts/2026/01-USACE - RCOP/index.html#section",
+    "href": "posts/2026/01-USACE - RCOP/index.html#section",
+    "title": "Rock Island Common Operating Picture (RCOP)",
+    "section": "",
+    "text": "The RCOP is used to support Rock Island Districts Emergency Response reporting and field data collection. She will first provide an introduction to field data collection and then provide a tour of the application suite used to power situational reporting and briefings during an emergency response event. This presentation will focus on how the RCOP is used to respond to flooding within the Rock Island District.  ##"
+  },
+  {
+    "objectID": "posts/2026/03-Esri Platform Overview/index.html",
+    "href": "posts/2026/03-Esri Platform Overview/index.html",
+    "title": "Esri’s Geospatial Platform and Emerging Capabilities",
+    "section": "",
+    "text": "Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
+  },
+  {
+    "objectID": "posts/2026/03-Esri Platform Overview/index.html#presentation",
+    "href": "posts/2026/03-Esri Platform Overview/index.html#presentation",
+    "title": "Esri’s Geospatial Platform and Emerging Capabilities",
+    "section": "",
+    "text": "Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
+  },
+  {
+    "objectID": "posts/2026/03-Esri Platform Overview/index.html#learn-more",
+    "href": "posts/2026/03-Esri Platform Overview/index.html#learn-more",
+    "title": "Esri’s Geospatial Platform and Emerging Capabilities",
+    "section": "Learn more",
+    "text": "Learn more"
+  },
+  {
+    "objectID": "posts/2026/05-USACE - UAS/index.html",
+    "href": "posts/2026/05-USACE - UAS/index.html",
+    "title": "USACE UAS and GIS Integration",
+    "section": "",
+    "text": "Carli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+  },
+  {
+    "objectID": "posts/2026/05-USACE - UAS/index.html#section",
+    "href": "posts/2026/05-USACE - UAS/index.html#section",
+    "title": "USACE UAS and GIS Integration",
+    "section": "",
+    "text": "Carli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+  },
+  {
+    "objectID": "posts/2026/07-Scott County Dashboard/index.html",
+    "href": "posts/2026/07-Scott County Dashboard/index.html",
+    "title": "Scott County Situational Awareness Dashboard",
+    "section": "",
+    "text": "Breanna Pairrett  \nThis presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
+  },
+  {
+    "objectID": "posts/2026/07-Scott County Dashboard/index.html#section",
+    "href": "posts/2026/07-Scott County Dashboard/index.html#section",
+    "title": "Scott County Situational Awareness Dashboard",
+    "section": "",
+    "text": "Breanna Pairrett  \nThis presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
+  },
+  {
+    "objectID": "posts/2026/09-USACE - Spatial Ops/index.html",
+    "href": "posts/2026/09-USACE - Spatial Ops/index.html",
+    "title": "Spatial Ops GIS Programs",
+    "section": "",
+    "text": "Morgan Franck (Anderson)\nThis presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
+  },
+  {
+    "objectID": "posts/2026/09-USACE - Spatial Ops/index.html#section",
+    "href": "posts/2026/09-USACE - Spatial Ops/index.html#section",
+    "title": "Spatial Ops GIS Programs",
+    "section": "",
+    "text": "Morgan Franck (Anderson)\nThis presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
+  },
+  {
+    "objectID": "posts/2026/11-USACE - Forestry/index.html#presentation",
+    "href": "posts/2026/11-USACE - Forestry/index.html#presentation",
+    "title": "USACE Forestry GIS Programs",
+    "section": "Presentation",
+    "text": "Presentation\nMore to come!"
+  },
+  {
+    "objectID": "posts/2026/11-USACE - Forestry/index.html#learn-more",
+    "href": "posts/2026/11-USACE - Forestry/index.html#learn-more",
+    "title": "USACE Forestry GIS Programs",
+    "section": "Learn more",
+    "text": "Learn more"
   },
   {
     "objectID": "posts/2027/01-opening-event/index.html",

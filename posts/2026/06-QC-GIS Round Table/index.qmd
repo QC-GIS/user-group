@@ -1,0 +1,13 @@
+---
+title: "QC-GIS Round Table Discussion"
+date: "2026-06-09"
+categories: [discussion]
+image: "logo.png"
+image-alt: "Presentation from meeting June 9, 2026"
+---
+
+## 
+
+It’s time to hear from the QC-GIS members! This month’s meeting will be a round table discussion, similar to our very first meeting. Come ready to share your GIS projects, questions and hurdles. You never know how hearing about someone else’s work might benefit you or solve a problem or two.
+
+ ##

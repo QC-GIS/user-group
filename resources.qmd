@@ -12,13 +12,14 @@ listing:
     filter-ui: false
     sort: "date desc"
     categories: false
-##  - id: photos
-##    contents: "posts/photos"
-##    type: grid
-##    sort-ui: false
-##    filter-ui: false
-##    sort: "date desc"
-##    categories: false
+  - id: post-2026
+    contents: "posts/2026"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+    sort: "date desc"
+    categories: false
+
 
 
 ---
@@ -28,7 +29,15 @@ listing:
 :::{#post-2025}
 :::
 
+---
 
+
+---
+
+## Presentations 2026
+
+:::{#post-2026}
+:::
 
 
 

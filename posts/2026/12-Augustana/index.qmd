@@ -1,0 +1,30 @@
+---
+title: "Augustana College GIS Student Final Presentations"
+date: "2026-12-07"
+categories: [teaching, documentation]
+image: "logo.png"
+image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible."
+---
+
+## 
+
+## Presentation
+
+Augustana College GIS Student Final Presentations in December 2026:
+Locations for both presentations will be:
+
+Swenson Hall of Geoscience, 820 38th St, Rock Island, IL 61201 (free parking along 38th street)
+Room 210
+
+Drone Mapping & GIS: 
+Monday, December 7th, 3-5pm
+
+Students will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.
+
+
+Cartography:
+Friday, December 11th, 9-11am
+
+Students will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication.
+
+## Learn more

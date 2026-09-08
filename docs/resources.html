@@ -104,6 +104,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-post-2026 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-post-2026'] = new List('listing-post-2026', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -350,6 +378,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#presentations-2025" id="toc-presentations-2025" class="nav-link active" data-scroll-target="#presentations-2025">Presentations 2025</a></li>
+  <li><a href="#presentations-2026" id="toc-presentations-2026" class="nav-link" data-scroll-target="#presentations-2026">Presentations 2026</a></li>
   </ul>
 </nav>
     </div>
@@ -447,6 +476,304 @@ Bobby Oliver
 </div>
 <div class="listing-date">
 Oct 14, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<hr>
+<hr>
+</section>
+<section id="presentations-2026" class="level2">
+<h2 class="anchored" data-anchor-id="presentations-2026">Presentations 2026</h2>
+<div id="listing-post-2026" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="dGVhY2hpbmclMkNkb2N1bWVudGF0aW9u" data-listing-date-sort="1796623200000" data-listing-file-modified-sort="1788886074259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144">
+<a href="./posts/2026/12-Augustana/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/12-Augustana/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Augustana College GIS Student Final Presentations
+</h5>
+<div class="card-text listing-description delink">
+Augustana College GIS Student Final Presentations in December 2026: Locations for both presentations will be:
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Augustana College Students
+</div>
+<div class="listing-date">
+Dec 7, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="dGVhY2hpbmclMkNkb2N1bWVudGF0aW9u" data-listing-date-sort="1794549600000" data-listing-file-modified-sort="1788885898212" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="./posts/2026/11-USACE - Forestry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/11-USACE - Forestry/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USACE Forestry GIS Programs
+</h5>
+<div class="card-text listing-description delink">
+More to come!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Chris Hawes
+</div>
+<div class="listing-date">
+Nov 13, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="dGVhY2hpbmclMkNkb2N1bWVudGF0aW9u" data-listing-date-sort="1791522000000" data-listing-file-modified-sort="1788885898212" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<a href="./posts/2026/10-USACE - UAS/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/10-USACE - UAS/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USACE UAS and GIS Integration
+</h5>
+<div class="card-text listing-description delink">
+Carli Schalbowske&nbsp;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Carli Schalbowske
+</div>
+<div class="listing-date">
+Oct 9, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="ZXhlY3V0aW9u" data-listing-date-sort="1789102800000" data-listing-file-modified-sort="1788884137966" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="./posts/2026/09-USACE - Spatial Ops/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/09-USACE - Spatial Ops/featured.png" class="thumbnail-image card-img" style="height: 150px;" alt="YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Spatial Ops GIS Programs
+</h5>
+<div class="card-text listing-description delink">
+Morgan Franck (Anderson)
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Morgan Franck (Anderson)
+</div>
+<div class="listing-date">
+Sep 11, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="ZXhlY3V0aW9u" data-listing-date-sort="1786424400000" data-listing-file-modified-sort="1788884066525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
+<a href="./posts/2026/08-USACE - Versioned Parcel Fabric/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/08-USACE - Versioned Parcel Fabric/featured.png" class="thumbnail-image card-img" style="height: 150px;" alt="YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Versioned Parcel Fabric Implementation
+</h5>
+<div class="card-text listing-description delink">
+Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Mick Frus, Cameron Shotton, Andrew Sunderman
+</div>
+<div class="listing-date">
+Aug 11, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="ZXhlY3V0aW9u" data-listing-date-sort="1784005200000" data-listing-file-modified-sort="1788884014447" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
+<a href="./posts/2026/07-Scott County Dashboard/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/07-Scott County Dashboard/featured.png" class="thumbnail-image card-img" style="height: 150px;" alt="YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Scott County Situational Awareness Dashboard
+</h5>
+<div class="card-text listing-description delink">
+Breanna Pairrett&nbsp;&nbsp;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Breanna Pairrett
+</div>
+<div class="listing-date">
+Jul 14, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="ZGlzY3Vzc2lvbg==" data-listing-date-sort="1780981200000" data-listing-file-modified-sort="1788883908319" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<a href="./posts/2026/06-QC-GIS Round Table/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/06-QC-GIS Round Table/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Presentation from meeting June 9, 2026">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QC-GIS Round Table Discussion
+</h5>
+<div class="card-text listing-description delink">
+It’s time to hear from the QC-GIS members! This month’s meeting will be a round table discussion, similar to our very first meeting. Come ready to share your GIS projects…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Micchael Dougherty
+</div>
+<div class="listing-date">
+Jun 9, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="YW5hbHlzaXM=" data-listing-date-sort="1778216400000" data-listing-file-modified-sort="1788883814250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<a href="./posts/2026/05-USACE - UAS/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/05-USACE - UAS/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Presentation from meeting May 8, 2026">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USACE UAS and GIS Integration
+</h5>
+<div class="card-text listing-description delink">
+Carli Schalbowske&nbsp;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Carli Schalbowske
+</div>
+<div class="listing-date">
+May 8, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="YW5hbHlzaXM=" data-listing-date-sort="1775797200000" data-listing-file-modified-sort="1788883747070" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
+<a href="./posts/2026/04-Bettendorf GIS/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/04-Bettendorf GIS/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Presentation from meeting April 10, 2026">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bettendorf GIS2026
+</h5>
+<div class="card-text listing-description delink">
+Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Nate Johnson
+</div>
+<div class="listing-date">
+Apr 10, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="dGVhY2hpbmclMkNkb2N1bWVudGF0aW9u" data-listing-date-sort="1773378000000" data-listing-file-modified-sort="1788885860957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<a href="./posts/2026/03-Esri Platform Overview/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/03-Esri Platform Overview/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="An R chunk with YAML-style chunk options echo: fenced, label: simple-arithmetic, results: hide. The R code in the chunk is 1 + 1. The fences of the chunk are also visible.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Esri’s Geospatial Platform and Emerging Capabilities
+</h5>
+<div class="card-text listing-description delink">
+Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Patrick Keown
+</div>
+<div class="listing-date">
+Mar 13, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="ZXhlY3V0aW9u" data-listing-date-sort="1770703200000" data-listing-file-modified-sort="1788883509814" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
+<a href="./posts/2026/02-USACE - Esri Experience Builder/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/02-USACE - Esri Experience Builder/featured.png" class="thumbnail-image card-img" style="height: 150px;" alt="YAML file with two execute options. The first one is freeze: true and the comment that goes with it reads never re-render during project render. The other one is freeze: auto and the comment reads re-render only when source changes.">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Where, When, Why, and How of Esri’s Experience Builder
+</h5>
+<div class="card-text listing-description delink">
+This will be a beginner-friendly intro to showcase the basics of putting together your first Experience and will compare Experience Builder to Esri’s other application…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Alden Ross
+</div>
+<div class="listing-date">
+Feb 10, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="YW5hbHlzaXM=" data-listing-date-sort="1768284000000" data-listing-file-modified-sort="1788885758393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<a href="./posts/2026/01-USACE - RCOP/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026/01-USACE - RCOP/logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Presentation from meeting January 13, 2026">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rock Island Common Operating Picture (RCOP)
+</h5>
+<div class="card-text listing-description delink">
+The RCOP is used to support Rock Island Districts Emergency Response reporting and field data collection. She will first provide an introduction to field data collection and…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Barrie Chileen-Martinez
+</div>
+<div class="listing-date">
+Jan 13, 2026
 </div>
 </div>
 </div>

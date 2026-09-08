@@ -35,7 +35,7 @@ kable(data, caption = "2026 Shedule")
 ### December 2026 Meeting Cancelled
 This meeting is being replace by an opportunity for professionals to attend final presentations of GIS projects by students in the Augustana College GIS class. This occasion provides a chance for students to present their work to professionals in the field, and for professionals to provide feedback and guidance to students. This event provides an ideal opportunity for professionals to give back to the GIS CoP and students with skill building and networking opportunity.
 
-The presentations will be held on #Friday, December 7th and 11th in Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201.
+The presentations will be held on Friday, December 7th and 11th in Swenson Hall of Geoscience, Room 210, 820 38th St, Rock Island, IL 61201.
 
 #### Drone Mapping & GIS: 
 Monday, December 7th, 3-5pm
