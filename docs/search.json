@@ -39,7 +39,7 @@
     "href": "posts/2026/12-Augustana/index.html#presentation",
     "title": "Augustana College GIS Student Final Presentations",
     "section": "Presentation",
-    "text": "Presentation\nAugustana College GIS Student Final Presentations in December 2026: Locations for both presentations will be:\nSwenson Hall of Geoscience, 820 38th St, Rock Island, IL 61201 (free parking along 38th street) Room 210\nDrone Mapping & GIS: Monday, December 7th, 3-5pm\nStudents will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.\nCartography: Friday, December 11th, 9-11am\nStudents will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication."
+    "text": "Presentation\nLocations for both presentations will be: Swenson Hall of Geoscience, 820 38th St, Rock Island, IL 61201 (free parking along 38th street) Room 210\nDrone Mapping & GIS: Monday, December 7th, 3-5pm\nStudents will present their final drone mapping projects, including how they designed, planned, and conducted a safe, FAA-compliant UAS mission. They will also present their resulting map products and explain how they meet the requirements of a spatial request, with an emphasis on accuracy and image quality.\nCartography: Friday, December 11th, 9-11am\nStudents will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication."
   },
   {
     "objectID": "posts/2026/12-Augustana/index.html#learn-more",
@@ -53,7 +53,7 @@
     "href": "posts/2026/10-USACE - UAS/index.html#presentation",
     "title": "USACE UAS and GIS Integration",
     "section": "Presentation",
-    "text": "Presentation\nCarli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+    "text": "Presentation\nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
   },
   {
     "objectID": "posts/2026/10-USACE - UAS/index.html#learn-more",
@@ -67,14 +67,14 @@
     "href": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html",
     "title": "Versioned Parcel Fabric Implementation",
     "section": "",
-    "text": "Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman\nThe Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
+    "text": "The Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
   },
   {
     "objectID": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html#section",
     "href": "posts/2026/08-USACE - Versioned Parcel Fabric/index.html#section",
     "title": "Versioned Parcel Fabric Implementation",
     "section": "",
-    "text": "Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman\nThe Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
+    "text": "The Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District’s cadastral data. In this month’s meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We’d love to hear from other users on their own methods and best practices for editing and managing cadastral datasets."
   },
   {
     "objectID": "posts/2026/06-QC-GIS Round Table/index.html",
@@ -95,14 +95,14 @@
     "href": "posts/2026/04-Bettendorf GIS/index.html",
     "title": "Bettendorf GIS2026",
     "section": "",
-    "text": "Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
+    "text": "City of Bettendorf will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
   },
   {
     "objectID": "posts/2026/04-Bettendorf GIS/index.html#section",
     "href": "posts/2026/04-Bettendorf GIS/index.html#section",
     "title": "Bettendorf GIS2026",
     "section": "",
-    "text": "Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
+    "text": "City of Bettendorf will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications in their decision-making for their asset management program for their underground utility network and pavement management program.\n##"
   },
   {
     "objectID": "posts/2026/02-USACE - Esri Experience Builder/index.html",
@@ -207,14 +207,14 @@
     "href": "posts/2026/03-Esri Platform Overview/index.html",
     "title": "Esri’s Geospatial Platform and Emerging Capabilities",
     "section": "",
-    "text": "Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
+    "text": "Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
   },
   {
     "objectID": "posts/2026/03-Esri Platform Overview/index.html#presentation",
     "href": "posts/2026/03-Esri Platform Overview/index.html#presentation",
     "title": "Esri’s Geospatial Platform and Emerging Capabilities",
     "section": "",
-    "text": "Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
+    "text": "Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. \nThe presentation will cover the following topics: \nWhat’s New in ArcGIS (2026)\nGeoAI\nLiving Digital Twins"
   },
   {
     "objectID": "posts/2026/03-Esri Platform Overview/index.html#learn-more",
@@ -228,42 +228,42 @@
     "href": "posts/2026/05-USACE - UAS/index.html",
     "title": "USACE UAS and GIS Integration",
     "section": "",
-    "text": "Carli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+    "text": "This presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
   },
   {
     "objectID": "posts/2026/05-USACE - UAS/index.html#section",
     "href": "posts/2026/05-USACE - UAS/index.html#section",
     "title": "USACE UAS and GIS Integration",
     "section": "",
-    "text": "Carli Schalbowske \nThis presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
+    "text": "This presentation will be discussing how to integrate Uncrewed Aerial Systems (UAS) with GIS workflows. It highlights applications used by the United States Army Corps of Engineers, including high-resolution orthomosaic and 3D mesh generation, infrastructure inspection, long-term monitoring and geospatial data collection. The presentation will also cover how UAS-derived datasets can be incorporated into GIS for improved spatial analysis, data accuracy, and more efficient project planning and decision support."
   },
   {
     "objectID": "posts/2026/07-Scott County Dashboard/index.html",
     "href": "posts/2026/07-Scott County Dashboard/index.html",
     "title": "Scott County Situational Awareness Dashboard",
     "section": "",
-    "text": "Breanna Pairrett  \nThis presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
+    "text": "This presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
   },
   {
     "objectID": "posts/2026/07-Scott County Dashboard/index.html#section",
     "href": "posts/2026/07-Scott County Dashboard/index.html#section",
     "title": "Scott County Situational Awareness Dashboard",
     "section": "",
-    "text": "Breanna Pairrett  \nThis presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
+    "text": "This presentation will be talking about the Situational Awareness dashboard that my colleague and I created in Experience Builder. We use this mostly for our Radiological Evacuation Plan exercises that are graded by FEMA. It was recognized by FEMA two years ago as National Best Practice, then published on ESRI’s Forbes Channel, which led to us being awarded a SAG Award last year at the 2025 ESRI UC. \nIt is a multi-use tool that allows us to adapt to any emergency or event. We mostly utilize the Near Me Analysis tool that allows us to get quick insight counts of schools, tier II facilities, govt buildings, parcel information, etc. within a specified area (point, line, polygon) search radius"
   },
   {
     "objectID": "posts/2026/09-USACE - Spatial Ops/index.html",
     "href": "posts/2026/09-USACE - Spatial Ops/index.html",
     "title": "Spatial Ops GIS Programs",
     "section": "",
-    "text": "Morgan Franck (Anderson)\nThis presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
+    "text": "This presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
   },
   {
     "objectID": "posts/2026/09-USACE - Spatial Ops/index.html#section",
     "href": "posts/2026/09-USACE - Spatial Ops/index.html#section",
     "title": "Spatial Ops GIS Programs",
     "section": "",
-    "text": "Morgan Franck (Anderson)\nThis presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
+    "text": "This presentation gives an overview of GIS in Operations, or the “Spatial Ops” team’s GIS programs, covering their structure, job duties, and data management. It details key activities such as hydrographic surveying, dredging support, the eHydro program, and the creation of navigation charts supporting the USACE Rock Island District’s navigation mission."
   },
   {
     "objectID": "posts/2026/11-USACE - Forestry/index.html#presentation",
