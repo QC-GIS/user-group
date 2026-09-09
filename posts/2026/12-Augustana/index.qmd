@@ -10,9 +10,7 @@ image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple
 
 ## Presentation
 
-Augustana College GIS Student Final Presentations in December 2026:
 Locations for both presentations will be:
-
 Swenson Hall of Geoscience, 820 38th St, Rock Island, IL 61201 (free parking along 38th street)
 Room 210
 

@@ -8,7 +8,7 @@ image-alt: "Presentation from meeting April 10, 2026"
 
 ## 
 
-Nate Johnson, GIS Specialist for the City of Bettendorf, will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications
+City of Bettendorf will be presenting on the history of their current GIS infrastructure, the successes, the annoyances and everything in between. He will also show how the city has been using different web GIS applications
 in their decision-making for their asset management program for their underground utility network and pavement management program.
 
  ##

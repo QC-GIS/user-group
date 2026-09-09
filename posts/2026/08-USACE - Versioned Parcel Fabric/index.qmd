@@ -8,8 +8,6 @@ image-alt: "YAML file with two execute options. The first one is freeze: true an
 
 ## 
 
-Presenters: Mick Frus, Cameron Shotton, Andrew Sunderman
-
 The Rock Island District Implemented versioned parcel fabric editing in 2023 to support multi-user editing to the District's cadastral data. In this month's meeting, we look to discuss implementation, workflows, and findings since implementing parcel fabric. We'd love to hear from other users on their own methods and best practices for editing and managing cadastral datasets.
 
 ## 

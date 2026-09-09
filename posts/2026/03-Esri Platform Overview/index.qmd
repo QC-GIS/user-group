@@ -9,7 +9,7 @@ image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple
 
 ## Presentation
 
-Patrick Keown, Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. 
+Esri Account Manager for U.S. Army Corps of Engineers, will be presenting a forward‑looking overview of Esri’s geospatial platform and how emerging capabilities can support modern project delivery across government and industry. 
 
 The presentation will cover the following topics: 
 
