@@ -19,18 +19,9 @@ Upcoming meeting info is emailed out to the user list prior to the meeting. Plea
 + Augustana College, Hanson Bldg, 3520 Seventh Ave, Rock Island, IL  61201 (Room 234). __Meeting time from 1-2pm on Fridays__
 + Bi-State Regional Commission, 1504 Third Ave, Rock Island, IL 61201 (Room 201). __Meeting time from 12-1pm on Wednesdays__
     
-### Meeting Location Schedule 
 
-```{r}
-#| echo: false
-library(knitr)
-data <- data.frame( 
-    Month = c("January", "February", "March", "April", "May", "June","July", "August", "September", "October","November"),
-    Location = c("Admin", "Admin", "Hanson", "Hanson", "Hanson", "EOC", "EOC", "EOC", "Hanson", "Hanson", "Hanson"),
-    Date = c("1/13", "2/10", "3/13", "4/10", "5/8", "6/9", "7/14", "8/11", "9/11", "10/9", "11/13")
-)
-kable(data, caption = "2026 Shedule")
-```
+
+
 
 ### December 2026 Meeting Cancelled
 This meeting is being replace by an opportunity for professionals to attend final presentations of GIS projects by students in the Augustana College GIS class. This occasion provides a chance for students to present their work to professionals in the field, and for professionals to provide feedback and guidance to students. This event provides an ideal opportunity for professionals to give back to the GIS CoP and students with skill building and networking opportunity.
@@ -47,6 +38,9 @@ Students will present their final drone mapping projects, including how they des
 Friday, December 11th, 9-11am
 
 Students will present (5-8 mins each) an original map they designed and created from scratch, using their own ideas and data to communicate a topic of their choosing. Each student will briefly introduce their map, explain its purpose and audience, and highlight design choices they made to achieve our course goal of accurate & effective spatial communication.
+
+
+### Meeting Location Schedule
 
 ```{r}
 #| echo: false
