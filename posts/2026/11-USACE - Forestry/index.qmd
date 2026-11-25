@@ -10,6 +10,6 @@ image-alt: "An R chunk with YAML-style chunk options echo: fenced, label: simple
 
 ## Presentation
 
-More to come!
+Join USACE GIS for a presentation on management of forestry data across the Upper Mississippi River. It will describe how data is collected in the field and highlight the data model used to store field data and organize the forest into a hierarchal management structure. Then an overview of data quality assurance and summarization tools will lead into a demo of the ArcGIS web application used across the region to drive ecological management decisions by USACE and USFWS.
 
 ## Learn more
