@@ -52,9 +52,9 @@ Students will present (5-8 mins each) an original map they designed and created 
 #| echo: false
 library(knitr)
 data <- data.frame( 
-    Month = c("February", "May","August","October"),
-    Location = c("Hanson", "Bi-State ", "Bi-State ", "Hanson"),
-    Date = c("2/13", "5/19", "8/11", "10/TBD")
+    Month = c("February", "April", "June","August", "September", "October"),
+    Location = c("Hanson", "Hanson", "Bi-State ", "Bi-State ", "Hanson", "Hanson"),
+    Date = c("2/13", "4/19", "6/9", "8/11", "9/10", "10/8")
 )
 kable(data, caption = "2027 Shedule")
 ```
